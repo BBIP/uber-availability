@@ -544,6 +544,260 @@
       "city": "Volta Redonda"
     }
   ],
+  "korea": [
+    {
+      "city": "andong"
+    },
+    {
+      "city": "anseong"
+    },
+    {
+      "city": "anyang"
+    },
+    {
+      "city": "asan"
+    },
+    {
+      "city": "boryeong"
+    },
+    {
+      "city": "bucheon"
+    },
+    {
+      "city": "busan"
+    },
+    {
+      "city": "changwon"
+    },
+    {
+      "city": "cheonan"
+    },
+    {
+      "city": "cheongju"
+    },
+    {
+      "city": "chilgok"
+    },
+    {
+      "city": "chuncheon"
+    },
+    {
+      "city": "chungju"
+    },
+    {
+      "city": "daegu"
+    },
+    {
+      "city": "daejeon"
+    },
+    {
+      "city": "dangjin"
+    },
+    {
+      "city": "dongducheon"
+    },
+    {
+      "city": "donghae"
+    },
+    {
+      "city": "eumseong"
+    },
+    {
+      "city": "gangneung"
+    },
+    {
+      "city": "geoje"
+    },
+    {
+      "city": "gimcheon"
+    },
+    {
+      "city": "gimgae"
+    },
+    {
+      "city": "gimje"
+    },
+    {
+      "city": "gimpo"
+    },
+    {
+      "city": "gongju"
+    },
+    {
+      "city": "goyang"
+    },
+    {
+      "city": "gumi"
+    },
+    {
+      "city": "gunpo"
+    },
+    {
+      "city": "guri"
+    },
+    {
+      "city": "gunsan"
+    },
+    {
+      "city": "gwangju"
+    },
+    {
+      "city": "gwangju - (gyeonggi-do)"
+    },
+    {
+      "city": "gwangmyeong"
+    },
+    {
+      "city": "gwangyang"
+    },
+    {
+      "city": "gyeongju"
+    },
+    {
+      "city": "gyeongsan"
+    },
+    {
+      "city": "hanam"
+    },
+    {
+      "city": "hongseong"
+    },
+    {
+      "city": "hwaseong"
+    },
+    {
+      "city": "iansan"
+    },
+    {
+      "city": "icheon"
+    },
+    {
+      "city": "iksan"
+    },
+    {
+      "city": "incheon"
+    },
+    {
+      "city": "jecheon"
+    },
+    {
+      "city": "jejusi"
+    },c
+    {
+      "city": "jeongeup"
+    },
+    {
+      "city": "jeonju"
+    },
+    {
+      "city": "jinju"
+    },
+    {
+      "city": "miryang"
+    },
+    {
+      "city": "mokpo"
+    },
+    {
+      "city": "muan"
+    },
+    {
+      "city": "naju"
+    },
+    {
+      "city": "namyangju"
+    },
+    {
+      "city": "nonsan"
+    },
+    {
+      "city": "osan"
+    },
+    {
+      "city": "paju"
+    },
+    {
+      "city": "pyeongtaek"
+    },
+    {
+      "city": "pocheon"
+    },
+    {
+      "city": "pohang"
+    },
+    {
+      "city": "sacheon"
+    },
+    {
+      "city": "sangju"
+    },
+    {
+      "city": "seongnam"
+    },
+    {
+      "city": "sejong"
+    },
+    {
+      "city": "seogwipo"
+    },
+    {
+      "city": "seoul"
+    },
+    {
+      "city": "seosan"
+    },
+    {
+      "city": "siheung"
+    },
+    {
+      "city": "suncheon"
+    },
+    {
+      "city": "suwon"
+    },
+    {
+      "city": "tongyeong"
+    },
+    {
+      "city": "uijeongbu"
+    },
+    {
+      "city": "uiwang"
+    },
+    {
+      "city": "ulsan"
+    },
+    {
+      "city": "wanju"
+    },
+    {
+      "city": "wonju"
+    },
+    {
+      "city": "yangju"
+    },
+    {
+      "city": "yangpyeong"
+    },
+    {
+      "city": "yangsan"
+    },
+    {
+      "city": "yeoju"
+    },
+    {
+      "city": "yeongcheon"
+    },
+    {
+      "city": "yeongju"
+    },
+    {
+      "city": "yeosu"
+    },
+    {
+      "city": "yongin"
+    },
+  ],
   "tanzania": [
     {
       "city": "Dar Es Salaam"
