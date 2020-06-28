@@ -558,7 +558,19 @@
       "city": "asan"
     },
     {
+      "city": "boeun"
+    },
+    {
+      "city": "bonghwa"
+    },
+    {
       "city": "boryeong"
+    },
+    {
+      "city": "boseong"
+    },
+    {
+      "city": "buan"
     },
     {
       "city": "bucheon"
@@ -567,13 +579,31 @@
       "city": "busan"
     },
     {
+      "city": "buyeo"
+    },
+    {
       "city": "changwon"
+    },
+    {
+      "city": "changnyeong"
     },
     {
       "city": "cheonan"
     },
     {
+      "city": "cheongdo"
+    },
+    {
       "city": "cheongju"
+    },
+    {
+      "city": "cheongsong"
+    },
+    {
+      "city": "cheongyang"
+    },
+    {
+      "city": "cheorwon"
     },
     {
       "city": "chilgok"
@@ -591,7 +621,13 @@
       "city": "daejeon"
     },
     {
+      "city": "damyang"
+    },
+    {
       "city": "dangjin"
+    },
+    {
+      "city": "danyang"
     },
     {
       "city": "dongducheon"
@@ -603,10 +639,22 @@
       "city": "eumseong"
     },
     {
+      "city": "gangjin"
+    },
+    {
       "city": "gangneung"
     },
     {
+      "city": "gapyeong"
+    },
+    {
+      "city": "geochang"
+    },
+    {
       "city": "geoje"
+    },
+    {
+      "city": "geumsan"
     },
     {
       "city": "gimcheon"
@@ -621,7 +669,25 @@
       "city": "gimpo"
     },
     {
+      "city": "gochang"
+    },
+    {
+      "city": "goesan"
+    },
+    {
+      "city": "goheung"
+    },
+    {
+      "city": "gokseong"
+    },
+    {
       "city": "gongju"
+    },
+    {
+      "city": "goseong (gyeongsangnam-do)"
+    },
+    {
+      "city": "goseong (gangwond-do)"
     },
     {
       "city": "goyang"
@@ -633,10 +699,19 @@
       "city": "gunpo"
     },
     {
+      "city": "gunwi"
+    },
+    {
       "city": "guri"
     },
     {
+      "city": "gurye"
+    },
+    {
       "city": "gunsan"
+    },
+    {
+      "city": "gwacheon"
     },
     {
       "city": "gwangju"
@@ -657,13 +732,46 @@
       "city": "gyeongsan"
     },
     {
+      "city": "gyerong"
+    },
+    {
+      "city": "hadong"
+    },
+    {
+      "city": "haenam"
+    },
+    {
+      "city": "haman"
+    },
+    {
+      "city": "hamyang"
+    },
+    {
+      "city": "hampyeong"
+    },
+    {
       "city": "hanam"
+    },
+    {
+      "city": "hapcheon"
+    },
+    {
+      "city": "hoengseong"
+    },
+    {
+      "city": "hongcheon"
     },
     {
       "city": "hongseong"
     },
     {
+      "city": "hwacheon"
+    },
+    {
       "city": "hwaseong"
+    },
+    {
+      "city": "hwasun"
     },
     {
       "city": "iansan"
@@ -675,19 +783,49 @@
       "city": "iksan"
     },
     {
+      "city": "imsil"
+    },
+    {
       "city": "incheon"
+    },
+    {
+      "city": "inje"
+    },
+    {
+      "city": "jangheung"
+    },
+    {
+      "city": "jangseong"
+    },
+    {
+      "city": "jangsu"
     },
     {
       "city": "jecheon"
     },
     {
       "city": "jejusi"
-    },c
+    },
     {
       "city": "jeongeup"
     },
     {
+      "city": "jeongseon"
+    },
+    {
       "city": "jeonju"
+    },
+    {
+      "city": "jeungpyeong"
+    },
+    {
+      "city": "jinan"
+    },
+    {
+      "city": "jincheon"
+    },
+    {
+      "city": "jindo"
     },
     {
       "city": "jinju"
@@ -702,13 +840,28 @@
       "city": "muan"
     },
     {
+      "city": "muju"
+    },
+    {
+      "city": "munggyeong"
+    },
+    {
       "city": "naju"
+    },
+    {
+      "city": "namhae"
+    },
+    {
+      "city": "namwon"
     },
     {
       "city": "namyangju"
     },
     {
       "city": "nonsan"
+    },
+    {
+      "city": "okcheon"
     },
     {
       "city": "osan"
@@ -726,16 +879,31 @@
       "city": "pohang"
     },
     {
+      "city": "pyeongchang"
+    },
+    {
       "city": "sacheon"
     },
     {
+      "city": "samcheok"
+    },
+    {
+      "city": "sancheong"
+    },
+    {
       "city": "sangju"
+    },
+    {
+      "city": "seongju"
     },
     {
       "city": "seongnam"
     },
     {
       "city": "sejong"
+    },
+    {
+      "city": "seocheon"
     },
     {
       "city": "seogwipo"
@@ -747,7 +915,16 @@
       "city": "seosan"
     },
     {
+      "city": "shinan"
+    },
+    {
       "city": "siheung"
+    },
+    {
+      "city": "sokcho"
+    },
+    {
+      "city": "sunchang"
     },
     {
       "city": "suncheon"
@@ -756,22 +933,46 @@
       "city": "suwon"
     },
     {
+      "city": "taean"
+    },
+    {
+      "city": "taebaek"
+    },
+    {
       "city": "tongyeong"
     },
     {
       "city": "uijeongbu"
     },
     {
+      "city": "uiryeong"
+    },
+    {
+      "city": "uiseong"
+    },
+    {
       "city": "uiwang"
     },
     {
+      "city": "uljin"
+    },
+    {
+      "city": "ulleung"
+    },
+    {
       "city": "ulsan"
+    },
+    {
+      "city": "wando"
     },
     {
       "city": "wanju"
     },
     {
       "city": "wonju"
+    },
+    {
+      "city": "yanggu"
     },
     {
       "city": "yangju"
@@ -783,16 +984,46 @@
       "city": "yangsan"
     },
     {
+      "city": "yangyang"
+    },
+    {
+      "city": "yecheon"
+    },
+    {
       "city": "yeoju"
+    },
+    {
+      "city": "yeoncheon"
+    },
+    {
+      "city": "yeongam"
     },
     {
       "city": "yeongcheon"
     },
     {
+      "city": "yeongdeok"
+    },
+    {
+      "city": "yeongdong"
+    },
+    {
+      "city": "yeonggwang"
+    },
+    {
       "city": "yeongju"
     },
     {
+      "city": "yeongwol"
+    },
+    {
+      "city": "yeongyang"
+    },
+    {
       "city": "yeosu"
+    },
+    {
+      "city": "yesan"
     },
     {
       "city": "yongin"
